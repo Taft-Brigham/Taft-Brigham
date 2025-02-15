@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taft-brigham&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taft-brigham&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=000000" alt="Top Languages" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taft-brigham&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=000000" alt="Top Languages" width="36.5%" />
 </p>
 
 <!-- Streak Counter -->
