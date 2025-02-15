@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taft-brigham&show_icons=true&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taft-brigham&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=000000" alt="Top Languages" width="37.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taft-brigham&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&bg_color=000000" alt="Top Languages" width="37%" />
 </p>
 
 <!-- Streak Counter -->
@@ -65,6 +65,8 @@
 <p align="center">
   <a href="https://codepen.io/taft-brigham" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" width="30" height="30"/></a>
   <a href="https://dev.to/brigham_taft_ad0f8441b27b" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="30" height="30"/></a>
+  <a href="mailto:taftbrigham@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+</a>
 </p>
 
 ---
